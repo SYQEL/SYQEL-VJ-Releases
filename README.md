@@ -13,4 +13,4 @@ Then install the application.
 3. Click on the Activation code to copy to clipboard
 4. Paste the activation code in the desktop app to activate
 
-NOTE: In order to run the SYQEL VJ desktop app you must have a paid subscription to https://www.SYQEL.com
+NOTE: In order to run the SYQEL VJ desktop app you must have a paid subscription to https://app.syqel.com
