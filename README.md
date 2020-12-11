@@ -1,5 +1,5 @@
 # SYQEL-VJ-Releases
-SYQEL VJ desktop application is a fully automated VJ software that enables users to visualize their desktop audio or mic input. 
+SYQEL VJ Windows desktop application is a fully automated VJ software that enables users to visualize their desktop audio or mic input. 
 
 To learn more about SYQEL VJ desktop app visit here: https://www.syqel.com/vj-app/
 
