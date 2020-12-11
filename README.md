@@ -3,11 +3,11 @@ SYQEL VJ desktop application is a fully automated VJ software that enables users
 
 To learn more about SYQEL VJ desktop app visit here: https://www.syqel.com/vj-app/
 
-#Installing & Running The Application
+# Installing & Running The Application
 To run the SYQEL VJ app on Windows first download SYQEL.exe installer
 Then install the application.
 
-On first startup of the application you will need to do the following:
+# On first startup of the application you will need to do the following:
 1. Visit https://app.syqel.com/app/settings
 2. Click on Streaming settings
 3. Click on the Activation code to copy to clipboard
