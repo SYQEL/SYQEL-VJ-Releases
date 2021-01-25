@@ -4,7 +4,7 @@ SYQEL VJ Windows desktop application is a fully automated VJ software that enabl
 To learn more about SYQEL VJ desktop app visit here: https://www.syqel.com/vj-app/
 
 # Installing & Running The Application
-To run the SYQEL VJ app on Windows first download [SYQEL.exe](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/v2.2.0/SYQEL-VJ-Setup-2.2.0.exe) installer
+To run the SYQEL VJ app on Windows first download [SYQEL.exe](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/v2.3.3/SYQEL-VJ-Setup-2.3.3.exe) installer
 Then install the application.
 
 To run the SYQEL VJ app on MacOS first download [SYQEL.dmg](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/v2.2.0/SYQEL-VJ-MAC.dmg) installer
