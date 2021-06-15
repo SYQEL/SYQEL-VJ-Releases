@@ -7,7 +7,7 @@ To learn more about SYQEL VJ desktop app visit here: https://www.syqel.com/downl
 To run the SYQEL VJ app on Windows first download [SYQEL.exe](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/untagged-48d584eb73b55623f8ac/SYQEL-VJ-Setup-2.7.5.exe) installer
 Then install the application.
 
-To run the SYQEL VJ app on MacOS first download [SYQEL.zip](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/untagged-48d584eb73b55623f8ac/SYQEL-VJ-2.7.5-mac.zip) installer Then install the application.
+To run the SYQEL VJ app on MacOS first download [SYQEL.dmg](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/v2.7.5/SYQEL-VJ-2.7.5.dmg) installer Then install the application.
 
 
 # On first startup of the application you will need to do the following:
