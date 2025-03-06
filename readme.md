@@ -4,16 +4,9 @@ SYQEL VJ Windows desktop application is a fully automated VJ software that enabl
 To learn more about SYQEL VJ desktop app visit here: https://www.syqel.com/
 
 # Installing & Running The Application
-To run the SYQEL VJ app on Windows first download [SYQEL.exe](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/v3.0.0/SYQEL-VJ-Setup-3.0.0.exe) installer
+To run the SYQEL VJ app on Windows first download [SYQEL.msix]([https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/v3.0.0/SYQEL-VJ-Setup-3.0.0.exe](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/4.0.0/syqel_desktop_standalone.msix)) installer
 Then install the application.
 
-To run the SYQEL VJ app on MacOS first download [SYQEL.dmg](https://github.com/SYQEL/SYQEL-VJ-Releases/releases/download/v3.0.0/SYQEL-VJ-3.0.0.dmg) installer Then install the application.
+Update MAC version coming soon!
 
-
-# On first startup of the application you will need to do the following:
-1. Visit https://app.syqel.com/app/settings
-2. Click on Streaming settings
-3. Click on the Activation code to copy to clipboard
-4. Paste the activation code in the desktop app to activate
-
-NOTE: In order to run the SYQEL VJ desktop app you must have a paid subscription to https://app.syqel.com
+NOTE: In order to run the SYQEL VJ desktop app you must have a paid subscription to https://vj.syqel.com
